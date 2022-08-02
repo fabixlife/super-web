@@ -705,6 +705,10 @@ header{
 	.heading h2{
 		font-size: 1.2rem;
 	}
+	.contai {
+		width: 500px;
+		height: 281px;
+	}
 	
 	
 }
